@@ -1,0 +1,17 @@
+.header{
+  display: flex;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    opacity: 1;
+    transform: translateY(0px);
+    visibility: visible;
+    background: aliceblue;
+    padding: 0px 300px;
+}
+.container{
+  padding: 0px 300px;
+}
+.menu{
+  padding: 0px 200px;
+}
